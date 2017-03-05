@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author 882506
+ * @author Stian
  */
 public class Kunderegister {
     
